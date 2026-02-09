@@ -1,0 +1,11 @@
+{
+  "increments": [
+    "建立專案基礎架構：初始化 Next.js 14 + Prisma + PostgreSQL 專案結構，配置 Tailwind CSS、shadcn/ui，建立資料庫 Schema（User, Post, Tag, Category）",
+    "實作後台管理系統：管理員登入認證、文章 CRUD 管理介面、標籤與分類管理、Markdown 編輯器整合、圖片上傳功能",
+    "實作前台展示系統：首頁文章列表、文章詳情頁、標籤雲與分類瀏覽、文章搜尋功能、RWD 響應式設計",
+    "實作 SEO 分析功能：自動生成 Meta Tags、Sitemap 生成、Open Graph 優化、文章 SEO 評分系統、關鍵字分析工具"
+  ],
+  "current_index": 4,
+  "total_count": 4,
+  "status": "COMPLETED"
+}

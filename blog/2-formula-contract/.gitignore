@@ -1,0 +1,13 @@
+# Formula-Contract work files
+.claude/
+.opencode/
+FORMULA.md
+
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+
+# database
+*.db
